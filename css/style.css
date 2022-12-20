@@ -1,0 +1,53 @@
+.text-red{
+    color:red;
+}
+
+.text-white{
+    color: white;
+}
+
+.degisme:hover{
+    color: peru;
+}
+
+body{
+
+    background-color: black;
+}
+
+a{
+    color: white;
+}
+
+.text-wood{
+    color: burlywood;
+}
+
+.text-brown{
+    color: brown;
+}
+
+.size-40px{
+    font-size: 40px;
+}
+
+.size-30px{
+    font-size: 30px;
+}
+
+.size-25px{
+    font-size: 25px;
+}
+
+.size-23px{
+    font-size: 23px;
+}
+
+
+.size-20px{
+    font-size: 20px;
+}
+
+.size-17px{
+    font-size: 17px;
+}
